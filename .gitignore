@@ -1,0 +1,94 @@
+git # Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# C extensions
+*.o
+*.a
+*.dylib
+*.dll
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# TensorBoard log files
+logs/
+logs/*
+
+# Model files
+*.h5
+*.hdf5
+*.pb
+*.ckpt
+*.keras
+
+# Dataset files
+DataStore/
+*.csv
+*.json
+*.npz
+*.npy
+*.png
+*.jpeg
+*.jpg
+
+# Output files
+results/
+*.out
+*.log
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Anaconda
+*.conda
+*.env
+
+# Python packages
+*.pkl
+*.joblib
+
+# Test files
+*.coverage
+coverage.xml
+*.test
+
+# Others
+*.bak
+*.swp
